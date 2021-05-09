@@ -2826,7 +2826,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #e7b788;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
@@ -2838,7 +2838,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #6fc3df;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
@@ -3486,7 +3486,7 @@ input, select, textarea {
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #e7b788;
 		}
 
 		#banner.style2:after {
@@ -3498,7 +3498,7 @@ input, select, textarea {
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: #6fc3df;
 		}
 
 		#banner.style5:after {
