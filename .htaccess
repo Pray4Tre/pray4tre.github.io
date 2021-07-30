@@ -1,1 +1,1 @@
-Redirect trecloud.html http://192.145.241.190/trecloud
+Redirect 301 "/trecloud.html" "http://192.145.241.190/trecloud"
